@@ -1,0 +1,63 @@
+commit fafd424e224f0c22a04e0ad4a0361d31a251f0a7
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Mon Nov 3 18:31:31 2014 +0000
+
+    Added new products.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=7908
+
+commit cce517d91cb4d3d02855ae986b2fd7c5ad02045b
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Tue Feb 4 15:13:47 2014 +0000
+
+    Updated.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=6529
+
+commit 0ca599af7885aa0393294b5f87852a3df5777dd7
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Tue Feb 4 03:43:34 2014 +0000
+
+    Updated.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=6524
+
+commit d2f74fcffeedaf28261a59afeaf7ba1f2508f94f
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Fri Jan 10 18:31:06 2014 +0000
+
+    Updated.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=6388
+
+commit be441e9aa6787f401251eaf99c7809580b085bd2
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Fri Jan 10 16:30:15 2014 +0000
+
+    Updated.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=6387
+
+commit 695b052e780ac6736cec04351774dce803b6a5a1
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Jul 24 19:19:30 2013 +0000
+
+    Added CSK crawler config.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=5582
+
+commit 41f64c81ee9e4e49e9eb5d8ad7d370b08ca6353b
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Mon Nov 19 22:06:15 2012 +0000
+
+    Added crawler configuration for ALOS products.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=5184
+
+commit 58fdfdc15d498af3b45ad813a18cc0393ea42c6c
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Nov 7 18:45:56 2012 +0000
+
+    Created branch for VMs.
+    
+    svn path=/branches/SciFlo/vm/crawler/; revision=5154
